@@ -1,6 +1,5 @@
 import random
 
-
 def play_craps():
     # First time throw
     dice1 = random.randint(1, 6)
